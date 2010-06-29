@@ -19,10 +19,6 @@
     },
     {
       "version_requirement": ">= 1.0.0",
-      "name": "ghoneycutt/ssl"
-    },
-    {
-      "version_requirement": ">= 1.0.0",
       "name": "ghoneycutt/svn"
     }
   ],
@@ -40,7 +36,7 @@
     "templates/dnsrepo.conf.erb": "843e3d84150aa9a2b15d008a53789a71",
     "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
     "metadata.json": "d34d0b70aba36510fbc2df4e667479ef",
-    "Modulefile": "37635096ca4260d3fac131599ec2a32e",
+    "Modulefile": "b53b10f4e522ea8571bb46dd8674b8ae",
     "manifests/master.pp": "83bc48a7b5ca621d79dacf04878a368d",
     "manifests/init.pp": "678975aaf5185f0ea4a388c8b2d998c7"
   },
